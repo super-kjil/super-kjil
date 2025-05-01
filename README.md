@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm super-kjil</h1>
+<h1>Hi 👋, I'm sers kjil</h1>
 <h2>Nisit IT fail at school</h2>
 <h3>🚀 Languages and Tools I Use</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
